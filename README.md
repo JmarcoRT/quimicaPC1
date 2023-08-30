@@ -1,3 +1,3 @@
-# quimicaPC1
-Tarea terminada 
+# PracticasQuimica
+
 Alumno: Rosales Trinidad Jeanmarco Miguel
